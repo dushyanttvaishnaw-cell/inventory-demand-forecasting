@@ -1,0 +1,42 @@
+Test window WAPE (lower is better), averaged over 50 SKUs
+  naive  0.524
+  ma4    0.433
+  ma8    0.424
+  ses    0.415
+  holt   0.435
+  picked 0.444   (model chosen per SKU on validation weeks)
+  picked bias -0.048
+
+Policy simulation over the 12 test weeks
+             fill_rate  units_short  stockout_weeks  skus_with_stockout  avg_on_hand  avg_inventory_value
+policy                                                                                                   
+flat_rule        0.881    35343.462             106                  36    25557.756            55090.535
+forecast_ss      0.955    14008.525              36                  21    45161.302           100605.244
+
+Model picked per SKU:
+method
+ses      15
+ma8      14
+holt     10
+ma4       7
+naive     4
+
+ABC x XYZ (whole catalog):
+xyz  X    Y     Z
+abc              
+A    5  253   556
+B    0  106   859
+C    0   10  1982
+
+Top 10 stockout risk if the flat rule stays:
+   sku                        description abc  weekly_forecast  flat_rule_rop  reorder_point  stockout_risk_flat_rule
+ 22086     Paper Chain Kit 50'S Christmas   A           1615.8           2107           4270                    0.963
+82494L         Wooden Frame Antique White   A            237.7            350            630                    0.909
+ 22197                     Popcorn Holder   A           2822.8           3560           8495                    0.886
+ 21034       Rex Cash+Carry Jumbo Shopper   B             78.2            119            210                    0.875
+ 22112         Chocolate Hot Water Bottle   A            377.5            502           1144                    0.858
+ 22993       Set Of 4 Pantry Jelly Moulds   A            391.3            637           1055                    0.811
+ 22139    Retrospot Tea Set Ceramic 11 Pc   A            175.4            274            501                    0.800
+ 21977 Pack Of 60 Pink Paisley Cake Cases   A            464.2            756           1562                    0.673
+ 22423           Regency Cakestand 3 Tier   A            231.4            417            635                    0.671
+ 84946       Antique Silver T-Light Glass   A            578.3            988           1850                    0.656

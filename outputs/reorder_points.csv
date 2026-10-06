@@ -1,0 +1,51 @@
+sku,description,abc,xyz,unit_price,model,weekly_forecast,forecast_rmse,safety_stock,reorder_point,flat_rule_rop,stockout_risk_flat_rule,order_qty_4wk
+22086,Paper Chain Kit 50'S Christmas,A,Z,2.95,ses,1615.8,446.1,1038,4270,2107,0.963,6464
+82494L,Wooden Frame Antique White,A,Y,2.95,ses,237.7,66.4,155,630,350,0.909,951
+22197,Popcorn Holder,A,Z,0.85,ses,2822.8,1224.6,2849,8495,3560,0.886,11292
+21034,Rex Cash+Carry Jumbo Shopper,B,Y,0.95,ses,78.2,22.9,54,210,119,0.875,313
+22112,Chocolate Hot Water Bottle,A,Z,4.95,ses,377.5,166.9,389,1144,502,0.858,1511
+22993,Set Of 4 Pantry Jelly Moulds,A,Y,1.25,ses,391.3,116.9,272,1055,637,0.811,1566
+22139,Retrospot Tea Set Ceramic 11 Pc,A,Y,4.95,ses,175.4,64.5,150,501,274,0.8,702
+21977,Pack Of 60 Pink Paisley Cake Cases,A,Y,0.55,ses,464.2,272.1,633,1562,756,0.673,1857
+22423,Regency Cakestand 3 Tier,A,Y,12.75,ses,231.4,73.9,172,635,417,0.671,926
+84946,Antique Silver T-Light Glass,A,Y,1.25,ses,578.3,297.8,693,1850,988,0.656,2314
+21212,Pack Of 72 Retrospot Cake Cases,A,Y,0.55,ses,669.2,267.2,622,1961,1191,0.653,2677
+21929,Jumbo Bag Pink Vintage Paisley,A,Y,2.08,ses,201.3,143.7,335,737,324,0.651,806
+22355,Charlotte Bag Suki Design,A,X,0.85,ses,423.8,180.1,419,1267,763,0.631,1696
+21790,Vintage Snap Cards,A,Y,0.85,ses,565.8,194.5,453,1585,1047,0.621,2264
+22382,Lunch Bag Spaceboy Design,A,Y,1.65,ses,254.9,109.4,255,765,475,0.591,1020
+22138,Baking Set 9 Piece Retrospot,A,Z,4.95,ses,225.0,170.1,396,846,403,0.578,900
+47566,Party Bunting,A,Y,4.95,ses,207.1,129.5,302,716,380,0.576,829
+22384,Lunch Bag Pink Polkadot,A,Y,1.65,ses,165.7,93.9,219,550,307,0.574,663
+22726,Alarm Clock Bakelike Green,A,Y,3.75,ses,231.2,130.4,304,766,432,0.566,925
+20726,Lunch Bag Woodland,A,Y,1.65,ses,164.2,81.2,189,518,311,0.562,657
+22630,Dolly Girl Lunch Box,A,Y,1.95,ses,216.7,90.6,211,645,414,0.561,867
+82482,Wooden Picture Frame White Finish,A,Y,2.55,ses,196.7,84.9,198,591,376,0.558,787
+20728,Lunch Bag Cars Blue,A,Y,1.65,ses,210.7,87.6,204,626,406,0.551,843
+20725,Lunch Bag Red Retrospot,A,X,1.65,ses,382.0,118.1,275,1039,745,0.546,1529
+20727,Lunch Bag  Black Skull.,A,Y,1.65,ses,277.4,108.2,252,807,541,0.537,1110
+22629,Spaceboy Lunch Box,A,Y,1.95,ses,262.3,112.0,261,786,514,0.527,1050
+21080,Set/20 Red Retrospot Paper Napkins,A,Y,0.85,ses,208.1,80.7,188,604,411,0.52,833
+22699,Roses Regency Teacup And Saucer,A,Y,2.95,ses,174.9,88.6,207,556,345,0.518,700
+20724,Red Retrospot Charlotte Bag,A,X,0.85,ses,434.6,165.0,384,1253,866,0.506,1739
+84879,Assorted Colour Bird Ornament,A,Y,1.69,ses,885.8,425.1,989,2761,1770,0.501,3544
+22383,Lunch Bag Suki Design,A,Y,1.65,ses,189.3,85.6,200,578,381,0.493,758
+21931,Jumbo Storage Bag Suki,A,X,2.08,ses,266.4,93.5,218,751,536,0.493,1066
+85099B,Jumbo Bag Red Retrospot,A,Y,2.08,ses,1119.9,671.5,1563,3802,2311,0.47,4480
+22727,Alarm Clock Bakelike Red,A,Z,3.75,ses,210.0,176.9,412,832,440,0.469,840
+22411,Jumbo Shopper Vintage Red Paisley,A,Y,2.08,ses,281.7,180.0,419,983,591,0.458,1127
+22178,Victorian Glass Hanging T-Light,A,Y,1.25,ses,444.3,447.2,1041,1929,967,0.451,1778
+85123A,White Hanging Heart T-Light Holder,A,Y,2.95,ses,647.7,430.1,1001,2296,1385,0.442,2591
+22697,Green Regency Teacup And Saucer,A,Y,2.95,ses,136.5,81.5,190,463,292,0.438,546
+22720,Set Of 3 Cake Tins Pantry Design,A,Z,4.95,ses,138.7,240.5,560,837,361,0.403,555
+22077,6 Ribbons Rustic Charm,A,Y,1.95,ses,248.1,126.5,295,791,541,0.402,993
+22666,Recipe Box Pantry Yellow Design,A,Y,2.95,ses,177.0,236.3,550,904,443,0.396,709
+22386,Jumbo Bag Pink Polkadot,A,Y,2.08,ses,487.6,433.0,1008,1983,1139,0.395,1951
+20712,Jumbo Bag Woodland Animals,A,Y,2.08,ses,203.6,115.9,270,677,460,0.375,815
+20914,Set/5 Red Retrospot Lid Glass Bowls,A,Y,2.95,ses,115.3,59.8,140,370,262,0.356,462
+22469,Heart Of Wicker Small,A,Z,1.65,ses,335.0,344.1,801,1471,858,0.35,1341
+22470,Heart Of Wicker Large,A,Z,2.95,ses,184.6,287.1,668,1038,529,0.347,739
+85099C,Jumbo  Bag Baroque Black White,A,Y,2.08,ses,255.0,159.2,371,881,606,0.335,1020
+22960,Jam Making Set With Jars,A,Y,4.25,ses,155.9,94.7,221,533,377,0.314,624
+22457,Natural Slate Heart Chalkboard,A,X,2.95,ses,158.1,49.2,115,431,351,0.312,633
+22961,Jam Making Set Printed,A,Y,1.45,ses,283.4,121.5,283,850,690,0.238,1134
